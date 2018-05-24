@@ -22,7 +22,9 @@
         <activity android:name=".favourites.Favouriteacitivity">
             android:label="@string/favourites"
         </activity>
-
+        <activity android:name=".searchAlbum.searchAlbum">
+            android:label="@string"
+        </activity>
     </application>
 
 </manifest>
