@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:weightSum="1"
+    android:weightSum="2"
     android:orientation="vertical"
     tools:context="com.example.stud.musicapp.MainActivity">
 
@@ -13,6 +13,14 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text="@string/top_songs"
+        />
+
+    <Button
+        android:id="@+id/bFavourites"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/favorites"
         />
 
 </LinearLayout>
