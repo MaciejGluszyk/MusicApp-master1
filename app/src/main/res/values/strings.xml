@@ -2,4 +2,8 @@
     <string name="app_name">Music App</string>
     <string name="top_songs">Utwory tygodnia</string>
     <string name="favorites" />
+    <string name="sort_by_name">Sortuj wg nazwy</string>
+    <string name="sort_by_year">Sortuj wg roku</string>
+    <string name="sort_by_sale">Sortuj wg sprzedazy</string>
+    <string name="sort_by_score">Sortuj wg wyniku</string>
 </resources>
